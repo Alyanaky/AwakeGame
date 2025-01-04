@@ -45,6 +45,11 @@
     <ClInclude Include="src\UIManager.h" />
     <ClInclude Include="src\Utils.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Object Include="assets\models\player.obj" />
+    <Object Include="assets\models\rat.obj" />
+    <Object Include="assets\models\torch.obj" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

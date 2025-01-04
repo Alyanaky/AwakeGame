@@ -87,4 +87,15 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Object Include="assets\models\player.obj">
+      <Filter>Файлы ресурсов</Filter>
+    </Object>
+    <Object Include="assets\models\rat.obj">
+      <Filter>Файлы ресурсов</Filter>
+    </Object>
+    <Object Include="assets\models\torch.obj">
+      <Filter>Файлы ресурсов</Filter>
+    </Object>
+  </ItemGroup>
 </Project>
